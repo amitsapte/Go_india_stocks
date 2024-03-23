@@ -1,3 +1,5 @@
+![Screenshot from 2024-03-23 19-00-15](https://github.com/amitsapte/Goindiastocks/assets/137983095/425edc83-534b-4b7e-91a5-272849e33bfc)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
